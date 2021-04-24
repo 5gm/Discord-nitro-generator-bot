@@ -1,2 +1,2 @@
 help
-use /nitro
+use .gen nitro
